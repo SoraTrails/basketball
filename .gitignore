@@ -3,3 +3,5 @@ path.m
 *.jpg
 *.avi
 *.fig
+data
+main_c
