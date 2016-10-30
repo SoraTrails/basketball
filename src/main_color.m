@@ -1,6 +1,6 @@
 %主色提取
-rate = 4;
-frame = 305;%要读的帧
+rate = 5;
+frame = 2381;%要读的帧
 
 ima=read(video,frame);%原图象
 
@@ -10,14 +10,14 @@ s0=im(:,:,2);
 v0=im(:,:,3);
 
 %将h、s、v三个分量的8个区域分别用对应的数字来表示（分布到0-8的整数范围内）
-h1=fix(h0*rate);
-s1=fix(s0*rate);
-v1=fix(v0*rate);
+h1=fix(h0*(rate-1));
+s1=fix(s0*(rate-1));
+v1=fix(v0*(rate-1));
 
-%将等于8的分量值划分到7区域中
-h1=h1-(h1==rate);
-s1=s1-(s1==rate);
-v1=v1-(v1==rate);
+% %将等于8的分量值划分到7区域中
+% h1=h1-(h1==rate);
+% s1=s1-(s1==rate);
+% v1=v1-(v1==rate);
 
 hsv=zeros(rate*rate*rate,1);
 temp=h1*rate*rate+s1*rate+v1;
