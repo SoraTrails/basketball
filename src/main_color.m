@@ -1,6 +1,6 @@
 %主色提取
 rate = 5;
-frame = 2381;%要读的帧
+frame = 444;%要读的帧
 
 ima=read(video,frame);%原图象
 

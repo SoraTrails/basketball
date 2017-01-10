@@ -1,4 +1,3 @@
-function main_color(video, frame)
 %镜头分割
 Threshold = 0.08 * 255;% 蜜汁阈值，其他视频不知道要取怎样的阈值
 

@@ -1,2 +1,14 @@
-%windows 路径应该不同吧，这个我放ignore下。
-file_path = '/media/xiujia/新加卷/basketball/test1.mkv';%29个镜头
+%路径
+% which fliplr -all
+
+% restoredefaultpath
+% rehash toolboxcache
+% savepath
+
+% cd F:\matlab\toolbox\bnt;
+% addpath(genpathKPM(pwd));
+
+% F:\matlab\toolbox\bnt\KPMtools\strsplit.m
+% F:\matlab\toolbox\bnt\KPMtools\assert.m
+
+file_path = 'F:\basketball\test1.mkv';%29个镜�?
