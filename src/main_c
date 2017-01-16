@@ -1,4 +1,4 @@
-frame:1 ratio:0.304685 h:0 s:1 v:3 boom!!1
+frame:1 ratio:0.304685 h:0 s:1 v:3  1
 frame:2 ratio:0.304063 h:0 s:1 v:3 
 frame:3 ratio:0.303793 h:0 s:1 v:3 
 frame:4 ratio:0.302910 h:0 s:1 v:3 
@@ -302,14 +302,14 @@ frame:301 ratio:0.242088 h:0 s:1 v:3
 frame:302 ratio:0.243993 h:0 s:1 v:3 
 frame:303 ratio:0.244263 h:0 s:1 v:3 
 frame:304 ratio:0.243452 h:0 s:1 v:3 
-frame:305 ratio:0.125522 h:2 s:0 v:2 boom!!305
-frame:306 ratio:0.075121 h:2 s:0 v:1 boom!!306
+frame:305 ratio:0.125522 h:2 s:0 v:2  305
+frame:306 ratio:0.075121 h:2 s:0 v:1  306
 frame:307 ratio:0.078811 h:2 s:0 v:1 
 frame:308 ratio:0.078977 h:2 s:0 v:1 
-frame:309 ratio:0.094963 h:2 s:3 v:1 boom!!309
+frame:309 ratio:0.094963 h:2 s:3 v:1  309
 frame:310 ratio:0.105543 h:2 s:3 v:1 
-frame:311 ratio:0.145829 h:2 s:0 v:2 boom!!311
-frame:312 ratio:0.124772 h:2 s:0 v:3 boom!!312
+frame:311 ratio:0.145829 h:2 s:0 v:2  311
+frame:312 ratio:0.124772 h:2 s:0 v:3  312
 frame:313 ratio:0.147681 h:2 s:0 v:3 
 frame:314 ratio:0.169113 h:2 s:0 v:3 
 frame:315 ratio:0.195082 h:2 s:0 v:3 
@@ -317,41 +317,41 @@ frame:316 ratio:0.217588 h:2 s:0 v:3
 frame:317 ratio:0.239565 h:2 s:0 v:3 
 frame:318 ratio:0.261244 h:2 s:0 v:3 
 frame:319 ratio:0.207348 h:2 s:0 v:3 
-frame:320 ratio:0.177494 h:2 s:0 v:2 boom!!320
-frame:321 ratio:0.109682 h:2 s:0 v:1 boom!!321
+frame:320 ratio:0.177494 h:2 s:0 v:2  320
+frame:321 ratio:0.109682 h:2 s:0 v:1  321
 frame:322 ratio:0.111267 h:2 s:0 v:1 
 frame:323 ratio:0.119699 h:2 s:0 v:1 
 frame:324 ratio:0.121880 h:2 s:0 v:1 
-frame:325 ratio:0.146408 h:2 s:0 v:2 boom!!325
+frame:325 ratio:0.146408 h:2 s:0 v:2  325
 frame:326 ratio:0.173753 h:2 s:0 v:2 
 frame:327 ratio:0.191810 h:2 s:0 v:2 
-frame:328 ratio:0.117609 h:2 s:0 v:1 boom!!328
-frame:329 ratio:0.116475 h:2 s:3 v:1 boom!!329
+frame:328 ratio:0.117609 h:2 s:0 v:1  328
+frame:329 ratio:0.116475 h:2 s:3 v:1  329
 frame:330 ratio:0.129865 h:2 s:3 v:1 
 frame:331 ratio:0.136010 h:2 s:3 v:1 
-frame:332 ratio:0.154732 h:2 s:0 v:2 boom!!332
+frame:332 ratio:0.154732 h:2 s:0 v:2  332
 frame:333 ratio:0.248873 h:2 s:0 v:2 
 frame:334 ratio:0.211095 h:2 s:0 v:2 
 frame:335 ratio:0.186684 h:2 s:0 v:2 
-frame:336 ratio:0.175985 h:2 s:0 v:3 boom!!336
+frame:336 ratio:0.175985 h:2 s:0 v:3  336
 frame:337 ratio:0.153272 h:2 s:0 v:3 
 frame:338 ratio:0.147365 h:2 s:0 v:3 
 frame:339 ratio:0.144833 h:2 s:0 v:3 
-frame:340 ratio:0.168089 h:2 s:0 v:2 boom!!340
+frame:340 ratio:0.168089 h:2 s:0 v:2  340
 frame:341 ratio:0.152174 h:2 s:0 v:2 
-frame:342 ratio:0.152324 h:2 s:0 v:3 boom!!342
+frame:342 ratio:0.152324 h:2 s:0 v:3  342
 frame:343 ratio:0.156662 h:2 s:0 v:3 
 frame:344 ratio:0.184926 h:2 s:0 v:3 
-frame:345 ratio:0.150656 h:2 s:0 v:2 boom!!345
+frame:345 ratio:0.150656 h:2 s:0 v:2  345
 frame:346 ratio:0.153601 h:2 s:0 v:2 
 frame:347 ratio:0.165986 h:2 s:0 v:2 
 frame:348 ratio:0.155117 h:2 s:0 v:2 
 frame:349 ratio:0.179975 h:2 s:0 v:2 
 frame:350 ratio:0.153064 h:2 s:0 v:2 
-frame:351 ratio:0.150582 h:2 s:0 v:3 boom!!351
+frame:351 ratio:0.150582 h:2 s:0 v:3  351
 frame:352 ratio:0.156624 h:2 s:0 v:3 
-frame:353 ratio:0.144424 h:2 s:0 v:2 boom!!353
-frame:354 ratio:0.135533 h:2 s:1 v:2 boom!!354
+frame:353 ratio:0.144424 h:2 s:0 v:2  353
+frame:354 ratio:0.135533 h:2 s:1 v:2  354
 frame:355 ratio:0.144164 h:2 s:1 v:2 
 frame:356 ratio:0.156907 h:2 s:1 v:2 
 frame:357 ratio:0.168041 h:2 s:1 v:2 
@@ -378,7 +378,7 @@ frame:377 ratio:0.184463 h:2 s:1 v:2
 frame:378 ratio:0.187420 h:2 s:1 v:2 
 frame:379 ratio:0.183750 h:2 s:1 v:2 
 frame:380 ratio:0.179933 h:2 s:1 v:2 
-frame:381 ratio:0.350283 h:0 s:1 v:3 boom!!381
+frame:381 ratio:0.350283 h:0 s:1 v:3  381
 frame:382 ratio:0.354670 h:0 s:1 v:3 
 frame:383 ratio:0.358143 h:0 s:1 v:3 
 frame:384 ratio:0.360798 h:0 s:1 v:3 
@@ -1184,7 +1184,7 @@ frame:1183 ratio:0.305478 h:0 s:1 v:3
 frame:1184 ratio:0.304653 h:0 s:1 v:3 
 frame:1185 ratio:0.304430 h:0 s:1 v:3 
 frame:1186 ratio:0.303415 h:0 s:1 v:3 
-frame:1187 ratio:0.235853 h:3 s:3 v:2 boom!!1187
+frame:1187 ratio:0.235853 h:3 s:3 v:2  1187
 frame:1188 ratio:0.241866 h:3 s:3 v:2 
 frame:1189 ratio:0.247505 h:3 s:3 v:2 
 frame:1190 ratio:0.232573 h:3 s:3 v:2 
@@ -1197,13 +1197,13 @@ frame:1196 ratio:0.194379 h:3 s:3 v:2
 frame:1197 ratio:0.177685 h:3 s:3 v:2 
 frame:1198 ratio:0.160597 h:3 s:3 v:2 
 frame:1199 ratio:0.143615 h:3 s:3 v:2 
-frame:1200 ratio:0.141511 h:0 s:1 v:2 boom!!1200
-frame:1201 ratio:0.156857 h:3 s:3 v:2 boom!!1201
-frame:1202 ratio:0.162676 h:0 s:1 v:2 boom!!1202
+frame:1200 ratio:0.141511 h:0 s:1 v:2  1200
+frame:1201 ratio:0.156857 h:3 s:3 v:2  1201
+frame:1202 ratio:0.162676 h:0 s:1 v:2  1202
 frame:1203 ratio:0.159836 h:0 s:1 v:2 
-frame:1204 ratio:0.155444 h:3 s:3 v:2 boom!!1204
+frame:1204 ratio:0.155444 h:3 s:3 v:2  1204
 frame:1205 ratio:0.157902 h:3 s:3 v:2 
-frame:1206 ratio:0.160853 h:0 s:1 v:2 boom!!1206
+frame:1206 ratio:0.160853 h:0 s:1 v:2  1206
 frame:1207 ratio:0.162220 h:0 s:1 v:2 
 frame:1208 ratio:0.164735 h:0 s:1 v:2 
 frame:1209 ratio:0.162786 h:0 s:1 v:2 
@@ -1222,7 +1222,7 @@ frame:1221 ratio:0.148750 h:0 s:1 v:2
 frame:1222 ratio:0.141346 h:0 s:1 v:2 
 frame:1223 ratio:0.144407 h:0 s:1 v:2 
 frame:1224 ratio:0.142943 h:0 s:1 v:2 
-frame:1225 ratio:0.158197 h:3 s:3 v:2 boom!!1225
+frame:1225 ratio:0.158197 h:3 s:3 v:2  1225
 frame:1226 ratio:0.167065 h:3 s:3 v:2 
 frame:1227 ratio:0.161694 h:3 s:3 v:2 
 frame:1228 ratio:0.151088 h:3 s:3 v:2 
@@ -1358,7 +1358,7 @@ frame:1357 ratio:0.212371 h:3 s:3 v:2
 frame:1358 ratio:0.214365 h:3 s:3 v:2 
 frame:1359 ratio:0.215964 h:3 s:3 v:2 
 frame:1360 ratio:0.217169 h:3 s:3 v:2 
-frame:1361 ratio:0.412188 h:0 s:1 v:3 boom!!1361
+frame:1361 ratio:0.412188 h:0 s:1 v:3  1361
 frame:1362 ratio:0.396408 h:0 s:1 v:3 
 frame:1363 ratio:0.378785 h:0 s:1 v:3 
 frame:1364 ratio:0.367040 h:0 s:1 v:3 
@@ -1374,7 +1374,7 @@ frame:1373 ratio:0.453729 h:0 s:1 v:3
 frame:1374 ratio:0.488930 h:0 s:1 v:3 
 frame:1375 ratio:0.486894 h:0 s:1 v:3 
 frame:1376 ratio:0.405419 h:0 s:1 v:3 
-frame:1377 ratio:0.422568 h:0 s:0 v:3 boom!!1377
+frame:1377 ratio:0.422568 h:0 s:0 v:3  1377
 frame:1378 ratio:0.638972 h:0 s:0 v:3 
 frame:1379 ratio:0.670581 h:0 s:0 v:3 
 frame:1380 ratio:0.658687 h:0 s:0 v:3 
@@ -1385,7 +1385,7 @@ frame:1384 ratio:0.541467 h:0 s:0 v:3
 frame:1385 ratio:0.569290 h:0 s:0 v:3 
 frame:1386 ratio:0.559780 h:0 s:0 v:3 
 frame:1387 ratio:0.454118 h:0 s:0 v:3 
-frame:1388 ratio:0.220817 h:0 s:1 v:3 boom!!1388
+frame:1388 ratio:0.220817 h:0 s:1 v:3  1388
 frame:1389 ratio:0.263465 h:0 s:1 v:3 
 frame:1390 ratio:0.416809 h:0 s:1 v:3 
 frame:1391 ratio:0.393331 h:0 s:1 v:3 
@@ -1421,7 +1421,7 @@ frame:1420 ratio:0.225315 h:0 s:1 v:3
 frame:1421 ratio:0.203497 h:0 s:1 v:3 
 frame:1422 ratio:0.157492 h:0 s:1 v:3 
 frame:1423 ratio:0.151303 h:0 s:1 v:3 
-frame:1424 ratio:0.148349 h:2 s:0 v:1 boom!!1424
+frame:1424 ratio:0.148349 h:2 s:0 v:1  1424
 frame:1425 ratio:0.146325 h:2 s:0 v:1 
 frame:1426 ratio:0.145592 h:2 s:0 v:1 
 frame:1427 ratio:0.138863 h:2 s:0 v:1 
@@ -1505,8 +1505,8 @@ frame:1504 ratio:0.154474 h:2 s:0 v:1
 frame:1505 ratio:0.179168 h:2 s:0 v:1 
 frame:1506 ratio:0.194856 h:2 s:0 v:1 
 frame:1507 ratio:0.178019 h:2 s:0 v:1 
-frame:1508 ratio:0.170769 h:2 s:1 v:1 boom!!1508
-frame:1509 ratio:0.191774 h:0 s:1 v:2 boom!!1509
+frame:1508 ratio:0.170769 h:2 s:1 v:1  1508
+frame:1509 ratio:0.191774 h:0 s:1 v:2  1509
 frame:1510 ratio:0.207114 h:0 s:1 v:2 
 frame:1511 ratio:0.234365 h:0 s:1 v:2 
 frame:1512 ratio:0.265248 h:0 s:1 v:2 
@@ -1520,7 +1520,7 @@ frame:1519 ratio:0.350056 h:0 s:1 v:2
 frame:1520 ratio:0.338207 h:0 s:1 v:2 
 frame:1521 ratio:0.293798 h:0 s:1 v:2 
 frame:1522 ratio:0.237630 h:0 s:1 v:2 
-frame:1523 ratio:0.172223 h:0 s:1 v:3 boom!!1523
+frame:1523 ratio:0.172223 h:0 s:1 v:3  1523
 frame:1524 ratio:0.182358 h:0 s:1 v:3 
 frame:1525 ratio:0.184171 h:0 s:1 v:3 
 frame:1526 ratio:0.187717 h:0 s:1 v:3 
@@ -1533,7 +1533,7 @@ frame:1532 ratio:0.127219 h:0 s:1 v:3
 frame:1533 ratio:0.120551 h:0 s:1 v:3 
 frame:1534 ratio:0.102636 h:0 s:1 v:3 
 frame:1535 ratio:0.093094 h:0 s:1 v:3 
-frame:1536 ratio:0.092960 h:3 s:0 v:0 boom!!1536
+frame:1536 ratio:0.092960 h:3 s:0 v:0  1536
 frame:1537 ratio:0.095333 h:3 s:0 v:0 
 frame:1538 ratio:0.102815 h:3 s:0 v:0 
 frame:1539 ratio:0.103669 h:3 s:0 v:0 
@@ -1545,7 +1545,7 @@ frame:1544 ratio:0.114365 h:3 s:0 v:0
 frame:1545 ratio:0.111134 h:3 s:0 v:0 
 frame:1546 ratio:0.108359 h:3 s:0 v:0 
 frame:1547 ratio:0.106273 h:3 s:0 v:0 
-frame:1548 ratio:0.105560 h:2 s:0 v:1 boom!!1548
+frame:1548 ratio:0.105560 h:2 s:0 v:1  1548
 frame:1549 ratio:0.109042 h:2 s:0 v:1 
 frame:1550 ratio:0.112695 h:2 s:0 v:1 
 frame:1551 ratio:0.120974 h:2 s:0 v:1 
@@ -1599,13 +1599,13 @@ frame:1598 ratio:0.147446 h:2 s:0 v:1
 frame:1599 ratio:0.151724 h:2 s:0 v:1 
 frame:1600 ratio:0.150541 h:2 s:0 v:1 
 frame:1601 ratio:0.151565 h:2 s:0 v:1 
-frame:1602 ratio:0.173305 h:2 s:1 v:1 boom!!1602
+frame:1602 ratio:0.173305 h:2 s:1 v:1  1602
 frame:1603 ratio:0.190464 h:2 s:1 v:1 
 frame:1604 ratio:0.178114 h:2 s:1 v:1 
 frame:1605 ratio:0.159953 h:2 s:1 v:1 
-frame:1606 ratio:0.137517 h:2 s:1 v:0 boom!!1606
-frame:1607 ratio:0.128902 h:2 s:1 v:1 boom!!1607
-frame:1608 ratio:0.148964 h:2 s:0 v:1 boom!!1608
+frame:1606 ratio:0.137517 h:2 s:1 v:0  1606
+frame:1607 ratio:0.128902 h:2 s:1 v:1  1607
+frame:1608 ratio:0.148964 h:2 s:0 v:1  1608
 frame:1609 ratio:0.176991 h:2 s:0 v:1 
 frame:1610 ratio:0.224660 h:2 s:0 v:1 
 frame:1611 ratio:0.241897 h:2 s:0 v:1 
@@ -1622,7 +1622,7 @@ frame:1621 ratio:0.252677 h:2 s:0 v:1
 frame:1622 ratio:0.246177 h:2 s:0 v:1 
 frame:1623 ratio:0.253890 h:2 s:0 v:1 
 frame:1624 ratio:0.250122 h:2 s:0 v:1 
-frame:1625 ratio:0.254851 h:0 s:1 v:2 boom!!1625
+frame:1625 ratio:0.254851 h:0 s:1 v:2  1625
 frame:1626 ratio:0.278154 h:0 s:1 v:2 
 frame:1627 ratio:0.304644 h:0 s:1 v:2 
 frame:1628 ratio:0.326408 h:0 s:1 v:2 
@@ -1688,7 +1688,7 @@ frame:1687 ratio:0.361954 h:0 s:1 v:2
 frame:1688 ratio:0.361925 h:0 s:1 v:2 
 frame:1689 ratio:0.317612 h:0 s:1 v:2 
 frame:1690 ratio:0.249461 h:0 s:1 v:2 
-frame:1691 ratio:0.274622 h:0 s:0 v:3 boom!!1691
+frame:1691 ratio:0.274622 h:0 s:0 v:3  1691
 frame:1692 ratio:0.421013 h:0 s:0 v:3 
 frame:1693 ratio:0.544243 h:0 s:0 v:3 
 frame:1694 ratio:0.596249 h:0 s:0 v:3 
@@ -1700,8 +1700,8 @@ frame:1699 ratio:0.563296 h:0 s:0 v:3
 frame:1700 ratio:0.576385 h:0 s:0 v:3 
 frame:1701 ratio:0.541457 h:0 s:0 v:3 
 frame:1702 ratio:0.239560 h:0 s:0 v:3 
-frame:1703 ratio:0.165872 h:0 s:0 v:2 boom!!1703
-frame:1704 ratio:0.162611 h:0 s:1 v:3 boom!!1704
+frame:1703 ratio:0.165872 h:0 s:0 v:2  1703
+frame:1704 ratio:0.162611 h:0 s:1 v:3  1704
 frame:1705 ratio:0.215605 h:0 s:1 v:3 
 frame:1706 ratio:0.216942 h:0 s:1 v:3 
 frame:1707 ratio:0.218831 h:0 s:1 v:3 
@@ -1864,12 +1864,12 @@ frame:1863 ratio:0.198681 h:0 s:1 v:3
 frame:1864 ratio:0.198140 h:0 s:1 v:3 
 frame:1865 ratio:0.198152 h:0 s:1 v:3 
 frame:1866 ratio:0.198043 h:0 s:1 v:3 
-frame:1867 ratio:0.072451 h:0 s:2 v:0 boom!!1867
-frame:1868 ratio:0.074039 h:0 s:1 v:0 boom!!1868
+frame:1867 ratio:0.072451 h:0 s:2 v:0  1867
+frame:1868 ratio:0.074039 h:0 s:1 v:0  1868
 frame:1869 ratio:0.076410 h:0 s:1 v:0 
 frame:1870 ratio:0.075141 h:0 s:1 v:0 
 frame:1871 ratio:0.074902 h:0 s:1 v:0 
-frame:1872 ratio:0.075153 h:3 s:1 v:0 boom!!1872
+frame:1872 ratio:0.075153 h:3 s:1 v:0  1872
 frame:1873 ratio:0.076020 h:3 s:1 v:0 
 frame:1874 ratio:0.079644 h:3 s:1 v:0 
 frame:1875 ratio:0.077946 h:3 s:1 v:0 
@@ -2058,7 +2058,7 @@ frame:2057 ratio:0.085859 h:3 s:1 v:0
 frame:2058 ratio:0.085863 h:3 s:1 v:0 
 frame:2059 ratio:0.088117 h:3 s:1 v:0 
 frame:2060 ratio:0.084458 h:3 s:1 v:0 
-frame:2061 ratio:0.187741 h:0 s:1 v:3 boom!!2061
+frame:2061 ratio:0.187741 h:0 s:1 v:3  2061
 frame:2062 ratio:0.181869 h:0 s:1 v:3 
 frame:2063 ratio:0.176448 h:0 s:1 v:3 
 frame:2064 ratio:0.177298 h:0 s:1 v:3 
@@ -2758,7 +2758,7 @@ frame:2757 ratio:0.208677 h:0 s:1 v:3
 frame:2758 ratio:0.209709 h:0 s:1 v:3 
 frame:2759 ratio:0.210227 h:0 s:1 v:3 
 frame:2760 ratio:0.210644 h:0 s:1 v:3 
-frame:2761 ratio:0.121298 h:2 s:0 v:3 boom!!2761
+frame:2761 ratio:0.121298 h:2 s:0 v:3  2761
 frame:2762 ratio:0.129855 h:2 s:0 v:3 
 frame:2763 ratio:0.142814 h:2 s:0 v:3 
 frame:2764 ratio:0.142734 h:2 s:0 v:3 
@@ -2769,7 +2769,7 @@ frame:2768 ratio:0.158079 h:2 s:0 v:3
 frame:2769 ratio:0.169571 h:2 s:0 v:3 
 frame:2770 ratio:0.166902 h:2 s:0 v:3 
 frame:2771 ratio:0.161870 h:2 s:0 v:3 
-frame:2772 ratio:0.159632 h:3 s:0 v:1 boom!!2772
+frame:2772 ratio:0.159632 h:3 s:0 v:1  2772
 frame:2773 ratio:0.171200 h:3 s:0 v:1 
 frame:2774 ratio:0.177030 h:3 s:0 v:1 
 frame:2775 ratio:0.184003 h:3 s:0 v:1 
@@ -2782,28 +2782,28 @@ frame:2781 ratio:0.272655 h:3 s:0 v:1
 frame:2782 ratio:0.259107 h:3 s:0 v:1 
 frame:2783 ratio:0.236849 h:3 s:0 v:1 
 frame:2784 ratio:0.213705 h:3 s:0 v:1 
-frame:2785 ratio:0.200790 h:2 s:0 v:3 boom!!2785
+frame:2785 ratio:0.200790 h:2 s:0 v:3  2785
 frame:2786 ratio:0.208124 h:2 s:0 v:3 
 frame:2787 ratio:0.208178 h:2 s:0 v:3 
 frame:2788 ratio:0.206419 h:2 s:0 v:3 
-frame:2789 ratio:0.209912 h:2 s:0 v:1 boom!!2789
-frame:2790 ratio:0.197675 h:2 s:0 v:3 boom!!2790
-frame:2791 ratio:0.185983 h:2 s:0 v:1 boom!!2791
+frame:2789 ratio:0.209912 h:2 s:0 v:1  2789
+frame:2790 ratio:0.197675 h:2 s:0 v:3  2790
+frame:2791 ratio:0.185983 h:2 s:0 v:1  2791
 frame:2792 ratio:0.213004 h:2 s:0 v:1 
 frame:2793 ratio:0.230596 h:2 s:0 v:1 
 frame:2794 ratio:0.225434 h:2 s:0 v:1 
-frame:2795 ratio:0.241017 h:0 s:1 v:2 boom!!2795
+frame:2795 ratio:0.241017 h:0 s:1 v:2  2795
 frame:2796 ratio:0.331205 h:0 s:1 v:2 
 frame:2797 ratio:0.419419 h:0 s:1 v:2 
 frame:2798 ratio:0.471486 h:0 s:1 v:2 
 frame:2799 ratio:0.495746 h:0 s:1 v:2 
-frame:2800 ratio:0.163692 h:2 s:0 v:0 boom!!2800
+frame:2800 ratio:0.163692 h:2 s:0 v:0  2800
 frame:2801 ratio:0.168261 h:2 s:0 v:0 
 frame:2802 ratio:0.167359 h:2 s:0 v:0 
 frame:2803 ratio:0.164317 h:2 s:0 v:0 
 frame:2804 ratio:0.157663 h:2 s:0 v:0 
 frame:2805 ratio:0.142357 h:2 s:0 v:0 
-frame:2806 ratio:0.141691 h:0 s:1 v:1 boom!!2806
+frame:2806 ratio:0.141691 h:0 s:1 v:1  2806
 frame:2807 ratio:0.137173 h:0 s:1 v:1 
 frame:2808 ratio:0.141333 h:0 s:1 v:1 
 frame:2809 ratio:0.148709 h:0 s:1 v:1 
@@ -2811,7 +2811,7 @@ frame:2810 ratio:0.149886 h:0 s:1 v:1
 frame:2811 ratio:0.145490 h:0 s:1 v:1 
 frame:2812 ratio:0.144519 h:0 s:1 v:1 
 frame:2813 ratio:0.138989 h:0 s:1 v:1 
-frame:2814 ratio:0.135430 h:2 s:0 v:0 boom!!2814
+frame:2814 ratio:0.135430 h:2 s:0 v:0  2814
 frame:2815 ratio:0.133286 h:2 s:0 v:0 
 frame:2816 ratio:0.134742 h:2 s:0 v:0 
 frame:2817 ratio:0.135623 h:2 s:0 v:0 
@@ -2918,7 +2918,7 @@ frame:2917 ratio:0.151327 h:2 s:0 v:0
 frame:2918 ratio:0.151877 h:2 s:0 v:0 
 frame:2919 ratio:0.152349 h:2 s:0 v:0 
 frame:2920 ratio:0.149938 h:2 s:0 v:0 
-frame:2921 ratio:0.145014 h:0 s:1 v:1 boom!!2921
+frame:2921 ratio:0.145014 h:0 s:1 v:1  2921
 frame:2922 ratio:0.147378 h:0 s:1 v:1 
 frame:2923 ratio:0.150236 h:0 s:1 v:1 
 frame:2924 ratio:0.151423 h:0 s:1 v:1 
@@ -2927,16 +2927,16 @@ frame:2926 ratio:0.162359 h:0 s:1 v:1
 frame:2927 ratio:0.164837 h:0 s:1 v:1 
 frame:2928 ratio:0.161993 h:0 s:1 v:1 
 frame:2929 ratio:0.157162 h:0 s:1 v:1 
-frame:2930 ratio:0.155763 h:0 s:1 v:2 boom!!2930
+frame:2930 ratio:0.155763 h:0 s:1 v:2  2930
 frame:2931 ratio:0.152727 h:0 s:1 v:2 
 frame:2932 ratio:0.151976 h:0 s:1 v:2 
 frame:2933 ratio:0.152808 h:0 s:1 v:2 
 frame:2934 ratio:0.147853 h:0 s:1 v:2 
 frame:2935 ratio:0.136333 h:0 s:1 v:2 
-frame:2936 ratio:0.131491 h:0 s:1 v:1 boom!!2936
-frame:2937 ratio:0.136877 h:0 s:1 v:2 boom!!2937
+frame:2936 ratio:0.131491 h:0 s:1 v:1  2936
+frame:2937 ratio:0.136877 h:0 s:1 v:2  2937
 frame:2938 ratio:0.147490 h:0 s:1 v:2 
-frame:2939 ratio:0.099429 h:0 s:1 v:1 boom!!2939
+frame:2939 ratio:0.099429 h:0 s:1 v:1  2939
 frame:2940 ratio:0.092474 h:0 s:1 v:1 
 frame:2941 ratio:0.096162 h:0 s:1 v:1 
 frame:2942 ratio:0.093750 h:0 s:1 v:1 
@@ -2952,7 +2952,7 @@ frame:2951 ratio:0.091696 h:0 s:1 v:1
 frame:2952 ratio:0.090666 h:0 s:1 v:1 
 frame:2953 ratio:0.089144 h:0 s:1 v:1 
 frame:2954 ratio:0.089744 h:0 s:1 v:1 
-frame:2955 ratio:0.089053 h:3 s:1 v:0 boom!!2955
+frame:2955 ratio:0.089053 h:3 s:1 v:0  2955
 frame:2956 ratio:0.088820 h:3 s:1 v:0 
 frame:2957 ratio:0.091380 h:3 s:1 v:0 
 frame:2958 ratio:0.094455 h:3 s:1 v:0 
@@ -2965,19 +2965,19 @@ frame:2964 ratio:0.095629 h:3 s:1 v:0
 frame:2965 ratio:0.095350 h:3 s:1 v:0 
 frame:2966 ratio:0.098359 h:3 s:1 v:0 
 frame:2967 ratio:0.096012 h:3 s:1 v:0 
-frame:2968 ratio:0.098553 h:0 s:1 v:1 boom!!2968
+frame:2968 ratio:0.098553 h:0 s:1 v:1  2968
 frame:2969 ratio:0.099044 h:0 s:1 v:1 
 frame:2970 ratio:0.098399 h:0 s:1 v:1 
 frame:2971 ratio:0.098609 h:0 s:1 v:1 
-frame:2972 ratio:0.099300 h:3 s:1 v:0 boom!!2972
+frame:2972 ratio:0.099300 h:3 s:1 v:0  2972
 frame:2973 ratio:0.099654 h:3 s:1 v:0 
-frame:2974 ratio:0.102575 h:0 s:1 v:1 boom!!2974
-frame:2975 ratio:0.104816 h:3 s:1 v:0 boom!!2975
-frame:2976 ratio:0.109438 h:0 s:1 v:1 boom!!2976
+frame:2974 ratio:0.102575 h:0 s:1 v:1  2974
+frame:2975 ratio:0.104816 h:3 s:1 v:0  2975
+frame:2976 ratio:0.109438 h:0 s:1 v:1  2976
 frame:2977 ratio:0.109656 h:0 s:1 v:1 
 frame:2978 ratio:0.108242 h:0 s:1 v:1 
 frame:2979 ratio:0.108857 h:0 s:1 v:1 
-frame:2980 ratio:0.107833 h:3 s:1 v:0 boom!!2980
+frame:2980 ratio:0.107833 h:3 s:1 v:0  2980
 frame:2981 ratio:0.109286 h:3 s:1 v:0 
 frame:2982 ratio:0.111882 h:3 s:1 v:0 
 frame:2983 ratio:0.115082 h:3 s:1 v:0 
@@ -3048,7 +3048,7 @@ frame:3047 ratio:0.117823 h:3 s:1 v:0
 frame:3048 ratio:0.119828 h:3 s:1 v:0 
 frame:3049 ratio:0.119043 h:3 s:1 v:0 
 frame:3050 ratio:0.118420 h:3 s:1 v:0 
-frame:3051 ratio:0.113968 h:0 s:1 v:1 boom!!3051
+frame:3051 ratio:0.113968 h:0 s:1 v:1  3051
 frame:3052 ratio:0.114280 h:0 s:1 v:1 
 frame:3053 ratio:0.115693 h:0 s:1 v:1 
 frame:3054 ratio:0.116751 h:0 s:1 v:1 
@@ -3059,19 +3059,19 @@ frame:3058 ratio:0.116351 h:0 s:1 v:1
 frame:3059 ratio:0.115074 h:0 s:1 v:1 
 frame:3060 ratio:0.114955 h:0 s:1 v:1 
 frame:3061 ratio:0.113775 h:0 s:1 v:1 
-frame:3062 ratio:0.113516 h:3 s:1 v:0 boom!!3062
+frame:3062 ratio:0.113516 h:3 s:1 v:0  3062
 frame:3063 ratio:0.112663 h:3 s:1 v:0 
-frame:3064 ratio:0.113178 h:0 s:1 v:1 boom!!3064
+frame:3064 ratio:0.113178 h:0 s:1 v:1  3064
 frame:3065 ratio:0.114003 h:0 s:1 v:1 
 frame:3066 ratio:0.112648 h:0 s:1 v:1 
 frame:3067 ratio:0.105685 h:0 s:1 v:1 
 frame:3068 ratio:0.105110 h:0 s:1 v:1 
 frame:3069 ratio:0.102200 h:0 s:1 v:1 
-frame:3070 ratio:0.110026 h:3 s:0 v:1 boom!!3070
+frame:3070 ratio:0.110026 h:3 s:0 v:1  3070
 frame:3071 ratio:0.134014 h:3 s:0 v:1 
-frame:3072 ratio:0.143446 h:0 s:0 v:2 boom!!3072
+frame:3072 ratio:0.143446 h:0 s:0 v:2  3072
 frame:3073 ratio:0.194485 h:0 s:0 v:2 
-frame:3074 ratio:0.203309 h:0 s:0 v:3 boom!!3074
+frame:3074 ratio:0.203309 h:0 s:0 v:3  3074
 frame:3075 ratio:0.315537 h:0 s:0 v:3 
 frame:3076 ratio:0.406618 h:0 s:0 v:3 
 frame:3077 ratio:0.468708 h:0 s:0 v:3 
@@ -3079,9 +3079,9 @@ frame:3078 ratio:0.502603 h:0 s:0 v:3
 frame:3079 ratio:0.493694 h:0 s:0 v:3 
 frame:3080 ratio:0.427279 h:0 s:0 v:3 
 frame:3081 ratio:0.254090 h:0 s:0 v:3 
-frame:3082 ratio:0.270470 h:0 s:0 v:2 boom!!3082
+frame:3082 ratio:0.270470 h:0 s:0 v:2  3082
 frame:3083 ratio:0.175397 h:0 s:0 v:2 
-frame:3084 ratio:0.222572 h:0 s:1 v:3 boom!!3084
+frame:3084 ratio:0.222572 h:0 s:1 v:3  3084
 frame:3085 ratio:0.303279 h:0 s:1 v:3 
 frame:3086 ratio:0.303118 h:0 s:1 v:3 
 frame:3087 ratio:0.304103 h:0 s:1 v:3 
@@ -3430,7 +3430,7 @@ frame:3429 ratio:0.271570 h:0 s:1 v:3
 frame:3430 ratio:0.271508 h:0 s:1 v:3 
 frame:3431 ratio:0.272391 h:0 s:1 v:3 
 frame:3432 ratio:0.272497 h:0 s:1 v:3 
-frame:3433 ratio:0.122656 h:2 s:0 v:0 boom!!3433
+frame:3433 ratio:0.122656 h:2 s:0 v:0  3433
 frame:3434 ratio:0.118706 h:2 s:0 v:0 
 frame:3435 ratio:0.116405 h:2 s:0 v:0 
 frame:3436 ratio:0.116877 h:2 s:0 v:0 
@@ -3447,7 +3447,7 @@ frame:3446 ratio:0.151589 h:2 s:0 v:0
 frame:3447 ratio:0.144590 h:2 s:0 v:0 
 frame:3448 ratio:0.136239 h:2 s:0 v:0 
 frame:3449 ratio:0.125331 h:2 s:0 v:0 
-frame:3450 ratio:0.122615 h:0 s:1 v:2 boom!!3450
+frame:3450 ratio:0.122615 h:0 s:1 v:2  3450
 frame:3451 ratio:0.120396 h:0 s:1 v:2 
 frame:3452 ratio:0.120440 h:0 s:1 v:2 
 frame:3453 ratio:0.124402 h:0 s:1 v:2 
@@ -3515,7 +3515,7 @@ frame:3514 ratio:0.153398 h:0 s:1 v:2
 frame:3515 ratio:0.153701 h:0 s:1 v:2 
 frame:3516 ratio:0.155385 h:0 s:1 v:2 
 frame:3517 ratio:0.149720 h:0 s:1 v:2 
-frame:3518 ratio:0.468601 h:0 s:1 v:3 boom!!3518
+frame:3518 ratio:0.468601 h:0 s:1 v:3  3518
 frame:3519 ratio:0.471226 h:0 s:1 v:3 
 frame:3520 ratio:0.475357 h:0 s:1 v:3 
 frame:3521 ratio:0.480652 h:0 s:1 v:3 
@@ -3611,7 +3611,7 @@ frame:3610 ratio:0.344723 h:0 s:1 v:3
 frame:3611 ratio:0.331138 h:0 s:1 v:3 
 frame:3612 ratio:0.318632 h:0 s:1 v:3 
 frame:3613 ratio:0.302966 h:0 s:1 v:3 
-frame:3614 ratio:0.298710 h:3 s:0 v:1 boom!!3614
+frame:3614 ratio:0.298710 h:3 s:0 v:1  3614
 frame:3615 ratio:0.311020 h:3 s:0 v:1 
 frame:3616 ratio:0.322815 h:3 s:0 v:1 
 frame:3617 ratio:0.330747 h:3 s:0 v:1 
@@ -3647,7 +3647,7 @@ frame:3646 ratio:0.423570 h:3 s:0 v:1
 frame:3647 ratio:0.433822 h:3 s:0 v:1 
 frame:3648 ratio:0.445494 h:3 s:0 v:1 
 frame:3649 ratio:0.445710 h:3 s:0 v:1 
-frame:3650 ratio:0.109274 h:3 s:3 v:2 boom!!3650
+frame:3650 ratio:0.109274 h:3 s:3 v:2  3650
 frame:3651 ratio:0.110693 h:3 s:3 v:2 
 frame:3652 ratio:0.111726 h:3 s:3 v:2 
 frame:3653 ratio:0.113331 h:3 s:3 v:2 
@@ -3773,14 +3773,14 @@ frame:3772 ratio:0.118179 h:3 s:3 v:2
 frame:3773 ratio:0.117029 h:3 s:3 v:2 
 frame:3774 ratio:0.117041 h:3 s:3 v:2 
 frame:3775 ratio:0.116916 h:3 s:3 v:2 
-frame:3776 ratio:0.083658 h:0 s:1 v:0 boom!!3776
+frame:3776 ratio:0.083658 h:0 s:1 v:0  3776
 frame:3777 ratio:0.086348 h:0 s:1 v:0 
 frame:3778 ratio:0.086470 h:0 s:1 v:0 
 frame:3779 ratio:0.085031 h:0 s:1 v:0 
 frame:3780 ratio:0.084434 h:0 s:1 v:0 
 frame:3781 ratio:0.084096 h:0 s:1 v:0 
 frame:3782 ratio:0.083500 h:0 s:1 v:0 
-frame:3783 ratio:0.083167 h:3 s:1 v:0 boom!!3783
+frame:3783 ratio:0.083167 h:3 s:1 v:0  3783
 frame:3784 ratio:0.086254 h:3 s:1 v:0 
 frame:3785 ratio:0.085459 h:3 s:1 v:0 
 frame:3786 ratio:0.085598 h:3 s:1 v:0 
@@ -3798,11 +3798,11 @@ frame:3797 ratio:0.090021 h:3 s:1 v:0
 frame:3798 ratio:0.092628 h:3 s:1 v:0 
 frame:3799 ratio:0.091639 h:3 s:1 v:0 
 frame:3800 ratio:0.094781 h:3 s:1 v:0 
-frame:3801 ratio:0.079949 h:0 s:1 v:0 boom!!3801
+frame:3801 ratio:0.079949 h:0 s:1 v:0  3801
 frame:3802 ratio:0.080013 h:0 s:1 v:0 
 frame:3803 ratio:0.080761 h:0 s:1 v:0 
 frame:3804 ratio:0.079940 h:0 s:1 v:0 
-frame:3805 ratio:0.080629 h:3 s:1 v:0 boom!!3805
+frame:3805 ratio:0.080629 h:3 s:1 v:0  3805
 frame:3806 ratio:0.082543 h:3 s:1 v:0 
 frame:3807 ratio:0.082226 h:3 s:1 v:0 
 frame:3808 ratio:0.081270 h:3 s:1 v:0 
@@ -3823,10 +3823,10 @@ frame:3822 ratio:0.091172 h:3 s:1 v:0
 frame:3823 ratio:0.094873 h:3 s:1 v:0 
 frame:3824 ratio:0.094481 h:3 s:1 v:0 
 frame:3825 ratio:0.095273 h:3 s:1 v:0 
-frame:3826 ratio:0.081623 h:0 s:1 v:0 boom!!3826
+frame:3826 ratio:0.081623 h:0 s:1 v:0  3826
 frame:3827 ratio:0.080744 h:0 s:1 v:0 
 frame:3828 ratio:0.079800 h:0 s:1 v:0 
-frame:3829 ratio:0.083298 h:3 s:1 v:0 boom!!3829
+frame:3829 ratio:0.083298 h:3 s:1 v:0  3829
 frame:3830 ratio:0.085538 h:3 s:1 v:0 
 frame:3831 ratio:0.087390 h:3 s:1 v:0 
 frame:3832 ratio:0.086166 h:3 s:1 v:0 
@@ -3848,7 +3848,7 @@ frame:3847 ratio:0.085633 h:3 s:1 v:0
 frame:3848 ratio:0.086651 h:3 s:1 v:0 
 frame:3849 ratio:0.088059 h:3 s:1 v:0 
 frame:3850 ratio:0.091047 h:3 s:1 v:0 
-frame:3851 ratio:0.089787 h:0 s:1 v:0 boom!!3851
+frame:3851 ratio:0.089787 h:0 s:1 v:0  3851
 frame:3852 ratio:0.090155 h:0 s:1 v:0 
 frame:3853 ratio:0.091433 h:0 s:1 v:0 
 frame:3854 ratio:0.094615 h:0 s:1 v:0 
@@ -3863,26 +3863,26 @@ frame:3862 ratio:0.088283 h:0 s:1 v:0
 frame:3863 ratio:0.083255 h:0 s:1 v:0 
 frame:3864 ratio:0.081667 h:0 s:1 v:0 
 frame:3865 ratio:0.078237 h:0 s:1 v:0 
-frame:3866 ratio:0.076860 h:0 s:1 v:1 boom!!3866
+frame:3866 ratio:0.076860 h:0 s:1 v:1  3866
 frame:3867 ratio:0.076795 h:0 s:1 v:1 
 frame:3868 ratio:0.077100 h:0 s:1 v:1 
 frame:3869 ratio:0.077402 h:0 s:1 v:1 
 frame:3870 ratio:0.076928 h:0 s:1 v:1 
-frame:3871 ratio:0.077358 h:3 s:1 v:0 boom!!3871
+frame:3871 ratio:0.077358 h:3 s:1 v:0  3871
 frame:3872 ratio:0.077195 h:3 s:1 v:0 
 frame:3873 ratio:0.078165 h:3 s:1 v:0 
 frame:3874 ratio:0.077028 h:3 s:1 v:0 
 frame:3875 ratio:0.078805 h:3 s:1 v:0 
-frame:3876 ratio:0.075140 h:0 s:1 v:0 boom!!3876
+frame:3876 ratio:0.075140 h:0 s:1 v:0  3876
 frame:3877 ratio:0.074217 h:0 s:1 v:0 
 frame:3878 ratio:0.073542 h:0 s:1 v:0 
-frame:3879 ratio:0.073678 h:0 s:2 v:1 boom!!3879
+frame:3879 ratio:0.073678 h:0 s:2 v:1  3879
 frame:3880 ratio:0.074524 h:0 s:2 v:1 
 frame:3881 ratio:0.074905 h:0 s:2 v:1 
-frame:3882 ratio:0.074675 h:0 s:1 v:1 boom!!3882
-frame:3883 ratio:0.077811 h:0 s:2 v:1 boom!!3883
+frame:3882 ratio:0.074675 h:0 s:1 v:1  3882
+frame:3883 ratio:0.077811 h:0 s:2 v:1  3883
 frame:3884 ratio:0.081950 h:0 s:2 v:1 
-frame:3885 ratio:0.080770 h:0 s:1 v:0 boom!!3885
+frame:3885 ratio:0.080770 h:0 s:1 v:0  3885
 frame:3886 ratio:0.086568 h:0 s:1 v:0 
 frame:3887 ratio:0.089313 h:0 s:1 v:0 
 frame:3888 ratio:0.088247 h:0 s:1 v:0 
@@ -3895,7 +3895,7 @@ frame:3894 ratio:0.084177 h:0 s:1 v:0
 frame:3895 ratio:0.083995 h:0 s:1 v:0 
 frame:3896 ratio:0.081392 h:0 s:1 v:0 
 frame:3897 ratio:0.081689 h:0 s:1 v:0 
-frame:3898 ratio:0.079731 h:2 s:1 v:0 boom!!3898
+frame:3898 ratio:0.079731 h:2 s:1 v:0  3898
 frame:3899 ratio:0.082349 h:2 s:1 v:0 
 frame:3900 ratio:0.081605 h:2 s:1 v:0 
 frame:3901 ratio:0.082851 h:2 s:1 v:0 
@@ -3904,7 +3904,7 @@ frame:3903 ratio:0.081466 h:2 s:1 v:0
 frame:3904 ratio:0.082069 h:2 s:1 v:0 
 frame:3905 ratio:0.082655 h:2 s:1 v:0 
 frame:3906 ratio:0.082604 h:2 s:1 v:0 
-frame:3907 ratio:0.186983 h:0 s:1 v:3 boom!!3907
+frame:3907 ratio:0.186983 h:0 s:1 v:3  3907
 frame:3908 ratio:0.183072 h:0 s:1 v:3 
 frame:3909 ratio:0.178752 h:0 s:1 v:3 
 frame:3910 ratio:0.178698 h:0 s:1 v:3 
@@ -4164,12 +4164,12 @@ frame:4163 ratio:0.180845 h:0 s:1 v:3
 frame:4164 ratio:0.181145 h:0 s:1 v:3 
 frame:4165 ratio:0.180827 h:0 s:1 v:3 
 frame:4166 ratio:0.180656 h:0 s:1 v:3 
-frame:4167 ratio:0.158975 h:2 s:1 v:2 boom!!4167
+frame:4167 ratio:0.158975 h:2 s:1 v:2  4167
 frame:4168 ratio:0.158479 h:2 s:1 v:2 
-frame:4169 ratio:0.160970 h:2 s:0 v:3 boom!!4169
-frame:4170 ratio:0.165609 h:2 s:1 v:2 boom!!4170
-frame:4171 ratio:0.166359 h:2 s:0 v:3 boom!!4171
-frame:4172 ratio:0.168056 h:2 s:1 v:2 boom!!4172
+frame:4169 ratio:0.160970 h:2 s:0 v:3  4169
+frame:4170 ratio:0.165609 h:2 s:1 v:2  4170
+frame:4171 ratio:0.166359 h:2 s:0 v:3  4171
+frame:4172 ratio:0.168056 h:2 s:1 v:2  4172
 frame:4173 ratio:0.171896 h:2 s:1 v:2 
 frame:4174 ratio:0.175600 h:2 s:1 v:2 
 frame:4175 ratio:0.179191 h:2 s:1 v:2 
@@ -4216,7 +4216,7 @@ frame:4215 ratio:0.219128 h:2 s:1 v:2
 frame:4216 ratio:0.229491 h:2 s:1 v:2 
 frame:4217 ratio:0.228682 h:2 s:1 v:2 
 frame:4218 ratio:0.224061 h:2 s:1 v:2 
-frame:4219 ratio:0.237427 h:0 s:1 v:3 boom!!4219
+frame:4219 ratio:0.237427 h:0 s:1 v:3  4219
 frame:4220 ratio:0.256536 h:0 s:1 v:3 
 frame:4221 ratio:0.277249 h:0 s:1 v:3 
 frame:4222 ratio:0.304524 h:0 s:1 v:3 
@@ -4251,7 +4251,7 @@ frame:4250 ratio:0.256489 h:0 s:1 v:3
 frame:4251 ratio:0.225126 h:0 s:1 v:3 
 frame:4252 ratio:0.194621 h:0 s:1 v:3 
 frame:4253 ratio:0.161972 h:0 s:1 v:3 
-frame:4254 ratio:0.140113 h:2 s:0 v:3 boom!!4254
+frame:4254 ratio:0.140113 h:2 s:0 v:3  4254
 frame:4255 ratio:0.174208 h:2 s:0 v:3 
 frame:4256 ratio:0.184457 h:2 s:0 v:3 
 frame:4257 ratio:0.185409 h:2 s:0 v:3 
@@ -4267,7 +4267,7 @@ frame:4266 ratio:0.219497 h:2 s:0 v:3
 frame:4267 ratio:0.230052 h:2 s:0 v:3 
 frame:4268 ratio:0.237482 h:2 s:0 v:3 
 frame:4269 ratio:0.240892 h:2 s:0 v:3 
-frame:4270 ratio:0.630852 h:0 s:1 v:3 boom!!4270
+frame:4270 ratio:0.630852 h:0 s:1 v:3  4270
 frame:4271 ratio:0.626884 h:0 s:1 v:3 
 frame:4272 ratio:0.620584 h:0 s:1 v:3 
 frame:4273 ratio:0.616926 h:0 s:1 v:3 
@@ -5206,7 +5206,7 @@ frame:5205 ratio:0.394090 h:0 s:1 v:3
 frame:5206 ratio:0.395263 h:0 s:1 v:3 
 frame:5207 ratio:0.394766 h:0 s:1 v:3 
 frame:5208 ratio:0.395206 h:0 s:1 v:3 
-frame:5209 ratio:0.138723 h:2 s:2 v:1 boom!!5209
+frame:5209 ratio:0.138723 h:2 s:2 v:1  5209
 frame:5210 ratio:0.164655 h:2 s:2 v:1 
 frame:5211 ratio:0.185270 h:2 s:2 v:1 
 frame:5212 ratio:0.197846 h:2 s:2 v:1 
@@ -5239,9 +5239,9 @@ frame:5238 ratio:0.173994 h:2 s:2 v:1
 frame:5239 ratio:0.150835 h:2 s:2 v:1 
 frame:5240 ratio:0.131568 h:2 s:2 v:1 
 frame:5241 ratio:0.099280 h:2 s:2 v:1 
-frame:5242 ratio:0.095862 h:0 s:1 v:2 boom!!5242
+frame:5242 ratio:0.095862 h:0 s:1 v:2  5242
 frame:5243 ratio:0.090809 h:0 s:1 v:2 
-frame:5244 ratio:0.096912 h:2 s:2 v:1 boom!!5244
+frame:5244 ratio:0.096912 h:2 s:2 v:1  5244
 frame:5245 ratio:0.113340 h:2 s:2 v:1 
 frame:5246 ratio:0.128000 h:2 s:2 v:1 
 frame:5247 ratio:0.140951 h:2 s:2 v:1 
@@ -5255,10 +5255,10 @@ frame:5254 ratio:0.147283 h:2 s:2 v:1
 frame:5255 ratio:0.142954 h:2 s:2 v:1 
 frame:5256 ratio:0.137835 h:2 s:2 v:1 
 frame:5257 ratio:0.127865 h:2 s:2 v:1 
-frame:5258 ratio:0.125114 h:3 s:3 v:2 boom!!5258
+frame:5258 ratio:0.125114 h:3 s:3 v:2  5258
 frame:5259 ratio:0.119500 h:3 s:3 v:2 
-frame:5260 ratio:0.107762 h:2 s:2 v:1 boom!!5260
-frame:5261 ratio:0.374407 h:0 s:1 v:3 boom!!5261
+frame:5260 ratio:0.107762 h:2 s:2 v:1  5260
+frame:5261 ratio:0.374407 h:0 s:1 v:3  5261
 frame:5262 ratio:0.372315 h:0 s:1 v:3 
 frame:5263 ratio:0.373192 h:0 s:1 v:3 
 frame:5264 ratio:0.373895 h:0 s:1 v:3 
@@ -5744,7 +5744,7 @@ frame:5743 ratio:0.260507 h:0 s:1 v:3
 frame:5744 ratio:0.260007 h:0 s:1 v:3 
 frame:5745 ratio:0.260113 h:0 s:1 v:3 
 frame:5746 ratio:0.260515 h:0 s:1 v:3 
-frame:5747 ratio:0.179128 h:2 s:0 v:3 boom!!5747
+frame:5747 ratio:0.179128 h:2 s:0 v:3  5747
 frame:5748 ratio:0.189793 h:2 s:0 v:3 
 frame:5749 ratio:0.237155 h:2 s:0 v:3 
 frame:5750 ratio:0.254861 h:2 s:0 v:3 
@@ -5755,9 +5755,9 @@ frame:5754 ratio:0.212442 h:2 s:0 v:3
 frame:5755 ratio:0.210069 h:2 s:0 v:3 
 frame:5756 ratio:0.217283 h:2 s:0 v:3 
 frame:5757 ratio:0.197637 h:2 s:0 v:3 
-frame:5758 ratio:0.172151 h:0 s:1 v:3 boom!!5758
+frame:5758 ratio:0.172151 h:0 s:1 v:3  5758
 frame:5759 ratio:0.164239 h:0 s:1 v:3 
-frame:5760 ratio:0.173055 h:2 s:1 v:2 boom!!5760
+frame:5760 ratio:0.173055 h:2 s:1 v:2  5760
 frame:5761 ratio:0.187565 h:2 s:1 v:2 
 frame:5762 ratio:0.207745 h:2 s:1 v:2 
 frame:5763 ratio:0.216875 h:2 s:1 v:2 
@@ -5765,7 +5765,7 @@ frame:5764 ratio:0.215890 h:2 s:1 v:2
 frame:5765 ratio:0.196834 h:2 s:1 v:2 
 frame:5766 ratio:0.169473 h:2 s:1 v:2 
 frame:5767 ratio:0.163074 h:2 s:1 v:2 
-frame:5768 ratio:0.153621 h:0 s:1 v:3 boom!!5768
+frame:5768 ratio:0.153621 h:0 s:1 v:3  5768
 frame:5769 ratio:0.174389 h:0 s:1 v:3 
 frame:5770 ratio:0.177409 h:0 s:1 v:3 
 frame:5771 ratio:0.184029 h:0 s:1 v:3 
@@ -7031,7 +7031,7 @@ frame:7030 ratio:0.222115 h:0 s:1 v:3
 frame:7031 ratio:0.221070 h:0 s:1 v:3 
 frame:7032 ratio:0.221584 h:0 s:1 v:3 
 frame:7033 ratio:0.223001 h:0 s:1 v:3 
-frame:7034 ratio:0.324367 h:0 s:1 v:2 boom!!7034
+frame:7034 ratio:0.324367 h:0 s:1 v:2  7034
 frame:7035 ratio:0.318920 h:0 s:1 v:2 
 frame:7036 ratio:0.318116 h:0 s:1 v:2 
 frame:7037 ratio:0.320489 h:0 s:1 v:2 
@@ -7108,7 +7108,7 @@ frame:7107 ratio:0.326975 h:0 s:1 v:2
 frame:7108 ratio:0.336209 h:0 s:1 v:2 
 frame:7109 ratio:0.325711 h:0 s:1 v:2 
 frame:7110 ratio:0.298598 h:0 s:1 v:2 
-frame:7111 ratio:0.325298 h:0 s:1 v:3 boom!!7111
+frame:7111 ratio:0.325298 h:0 s:1 v:3  7111
 frame:7112 ratio:0.341555 h:0 s:1 v:3 
 frame:7113 ratio:0.363031 h:0 s:1 v:3 
 frame:7114 ratio:0.416046 h:0 s:1 v:3 
@@ -7180,11 +7180,11 @@ frame:7179 ratio:0.587579 h:0 s:1 v:3
 frame:7180 ratio:0.578786 h:0 s:1 v:3 
 frame:7181 ratio:0.569679 h:0 s:1 v:3 
 frame:7182 ratio:0.569776 h:0 s:1 v:3 
-frame:7183 ratio:0.110414 h:2 s:0 v:1 boom!!7183
+frame:7183 ratio:0.110414 h:2 s:0 v:1  7183
 frame:7184 ratio:0.113198 h:2 s:0 v:1 
 frame:7185 ratio:0.115707 h:2 s:0 v:1 
 frame:7186 ratio:0.115407 h:2 s:0 v:1 
-frame:7187 ratio:0.114053 h:0 s:1 v:3 boom!!7187
+frame:7187 ratio:0.114053 h:0 s:1 v:3  7187
 frame:7188 ratio:0.118664 h:0 s:1 v:3 
 frame:7189 ratio:0.125371 h:0 s:1 v:3 
 frame:7190 ratio:0.130365 h:0 s:1 v:3 
@@ -7316,7 +7316,7 @@ frame:7315 ratio:0.099001 h:0 s:1 v:3
 frame:7316 ratio:0.093857 h:0 s:1 v:3 
 frame:7317 ratio:0.092600 h:0 s:1 v:3 
 frame:7318 ratio:0.090361 h:0 s:1 v:3 
-frame:7319 ratio:0.089948 h:2 s:0 v:1 boom!!7319
+frame:7319 ratio:0.089948 h:2 s:0 v:1  7319
 frame:7320 ratio:0.091989 h:2 s:0 v:1 
 frame:7321 ratio:0.092294 h:2 s:0 v:1 
 frame:7322 ratio:0.091216 h:2 s:0 v:1 
@@ -7331,8 +7331,8 @@ frame:7330 ratio:0.091193 h:2 s:0 v:1
 frame:7331 ratio:0.092130 h:2 s:0 v:1 
 frame:7332 ratio:0.092311 h:2 s:0 v:1 
 frame:7333 ratio:0.091674 h:2 s:0 v:1 
-frame:7334 ratio:0.092386 h:2 s:1 v:0 boom!!7334
-frame:7335 ratio:0.094446 h:2 s:0 v:1 boom!!7335
+frame:7334 ratio:0.092386 h:2 s:1 v:0  7334
+frame:7335 ratio:0.094446 h:2 s:0 v:1  7335
 frame:7336 ratio:0.100125 h:2 s:0 v:1 
 frame:7337 ratio:0.101313 h:2 s:0 v:1 
 frame:7338 ratio:0.103323 h:2 s:0 v:1 
@@ -7354,7 +7354,7 @@ frame:7353 ratio:0.107836 h:2 s:0 v:1
 frame:7354 ratio:0.106058 h:2 s:0 v:1 
 frame:7355 ratio:0.104122 h:2 s:0 v:1 
 frame:7356 ratio:0.100446 h:2 s:0 v:1 
-frame:7357 ratio:0.098734 h:2 s:1 v:0 boom!!7357
+frame:7357 ratio:0.098734 h:2 s:1 v:0  7357
 frame:7358 ratio:0.101997 h:2 s:1 v:0 
 frame:7359 ratio:0.104336 h:2 s:1 v:0 
 frame:7360 ratio:0.104800 h:2 s:1 v:0 
@@ -7397,10 +7397,10 @@ frame:7396 ratio:0.097680 h:2 s:1 v:0
 frame:7397 ratio:0.096908 h:2 s:1 v:0 
 frame:7398 ratio:0.095304 h:2 s:1 v:0 
 frame:7399 ratio:0.092963 h:2 s:1 v:0 
-frame:7400 ratio:0.092503 h:0 s:1 v:2 boom!!7400
+frame:7400 ratio:0.092503 h:0 s:1 v:2  7400
 frame:7401 ratio:0.093554 h:0 s:1 v:2 
 frame:7402 ratio:0.094064 h:0 s:1 v:2 
-frame:7403 ratio:0.115809 h:2 s:2 v:1 boom!!7403
+frame:7403 ratio:0.115809 h:2 s:2 v:1  7403
 frame:7404 ratio:0.116136 h:2 s:2 v:1 
 frame:7405 ratio:0.116053 h:2 s:2 v:1 
 frame:7406 ratio:0.114072 h:2 s:2 v:1 
@@ -7432,10 +7432,10 @@ frame:7431 ratio:0.101317 h:2 s:2 v:1
 frame:7432 ratio:0.099710 h:2 s:2 v:1 
 frame:7433 ratio:0.097384 h:2 s:2 v:1 
 frame:7434 ratio:0.095873 h:2 s:2 v:1 
-frame:7435 ratio:0.095885 h:0 s:1 v:1 boom!!7435
+frame:7435 ratio:0.095885 h:0 s:1 v:1  7435
 frame:7436 ratio:0.097742 h:0 s:1 v:1 
 frame:7437 ratio:0.097849 h:0 s:1 v:1 
-frame:7438 ratio:0.098012 h:2 s:2 v:1 boom!!7438
+frame:7438 ratio:0.098012 h:2 s:2 v:1  7438
 frame:7439 ratio:0.100248 h:2 s:2 v:1 
 frame:7440 ratio:0.102528 h:2 s:2 v:1 
 frame:7441 ratio:0.104158 h:2 s:2 v:1 
