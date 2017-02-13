@@ -58,7 +58,7 @@ for i=1:100
     end
     ob(i) = c + d; 
 end
-fclose(fid);  
+fclose(fid);
 
 TRGUESS = [0.8,0.1,0.05,0.05;...
 		   0.05,0.8,0.1,0.05;...
@@ -71,7 +71,6 @@ EMITGUESS = [0.02,0.18,0.8,0,0,0;...
 			 0,0,0,0.33,0.33,0.34];
 
 [ESTTR,ESTEMIT] = hmmtrain(seq,TRGUESS,EMITGUESS);
-						   % 'Statenames',{'mid';'front';'front_feature';'feature'});
 
 state = hmmviterbi(ob,ESTTR,ESTEMIT,...
 				   'Statenames',{'mid';'front';'front_feature';'feature'});
