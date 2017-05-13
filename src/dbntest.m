@@ -28,7 +28,7 @@ bnet.CPD{1} = tabular_CPD(bnet, 1, [0,1]);
 % 1: 关闭 2：打开
 bnet.CPD{2} = tabular_CPD(bnet, 2, [ ]);%'adjustable',0); 2*4*2
 % 1: 中场 2：前场 3：前场特写 4：特写
-bnet.CPD{3} = tabular_CPD(bnet, 3);
+bnet.CPD{3} = tabular_CPD(bnet, 3); 
 % 1：
 bnet.CPD{4} = tabular_CPD(bnet, 4);
 
